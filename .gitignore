@@ -1,4 +1,5 @@
-node_modules
+venv
+*.pyc
+staticfiles
 .env
-Dockerfile
-docker-compose.yml
+db.sqlite3
